@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\СП16\СП16\bin\Debug\СП16.exe.config
+C:\Users\CoFFey\source\repos\СП16\СП16\bin\Debug\СП16.exe
+C:\Users\CoFFey\source\repos\СП16\СП16\bin\Debug\СП16.pdb
+C:\Users\CoFFey\source\repos\СП16\СП16\obj\Debug\СП16.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\СП16\СП16\obj\Debug\СП16.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\СП16\СП16\obj\Debug\СП16.Form1.resources
+C:\Users\CoFFey\source\repos\СП16\СП16\obj\Debug\СП16.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\СП16\СП16\obj\Debug\СП16.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\СП16\СП16\obj\Debug\СП16.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\СП16\СП16\obj\Debug\СП16.exe
+C:\Users\CoFFey\source\repos\СП16\СП16\obj\Debug\СП16.pdb
